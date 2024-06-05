@@ -1,0 +1,4 @@
+struct Student{
+	char name[100]="";
+	int scope=0;
+}
